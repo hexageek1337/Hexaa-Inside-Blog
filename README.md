@@ -7,6 +7,7 @@ Hexaa Inside - Simple PHP Blog
 
 # Usage
 - Upload Hexaa Inside Blog to your servers
-- Import file smkbisa.sql to your MySQL Server
+- Import file smkbisa.sql to your Database
+- Change data login database your server
 - Change user login : admin in table user
 - Successfully Install
