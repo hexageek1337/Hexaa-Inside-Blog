@@ -11,3 +11,8 @@ Hexaa Inside - Simple PHP Blog
 - Change data login database your server in hexaaconf/koneksi.php
 - Change user login : admin in table user
 - Successfully Installed
+
+# Note
+- File index.php with Pagination
+- File index_backup.php without Pagination
+- Support 404 Not Found Template
